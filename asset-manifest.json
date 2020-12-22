@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.30f74102.chunk.css",
-    "main.js": "/static/js/main.b0dece6e.chunk.js",
-    "main.js.map": "/static/js/main.b0dece6e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.89d39ed0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.89d39ed0.js.map",
-    "static/js/2.2969660a.chunk.js": "/static/js/2.2969660a.chunk.js",
-    "static/js/2.2969660a.chunk.js.map": "/static/js/2.2969660a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.30f74102.chunk.css.map": "/static/css/main.30f74102.chunk.css.map",
-    "static/js/2.2969660a.chunk.js.LICENSE.txt": "/static/js/2.2969660a.chunk.js.LICENSE.txt"
+    "main.css": "/m3d4rd.github.io/static/css/main.86c73c10.chunk.css",
+    "main.js": "/m3d4rd.github.io/static/js/main.437c4043.chunk.js",
+    "main.js.map": "/m3d4rd.github.io/static/js/main.437c4043.chunk.js.map",
+    "runtime-main.js": "/m3d4rd.github.io/static/js/runtime-main.ecfc7459.js",
+    "runtime-main.js.map": "/m3d4rd.github.io/static/js/runtime-main.ecfc7459.js.map",
+    "static/js/2.2969660a.chunk.js": "/m3d4rd.github.io/static/js/2.2969660a.chunk.js",
+    "static/js/2.2969660a.chunk.js.map": "/m3d4rd.github.io/static/js/2.2969660a.chunk.js.map",
+    "index.html": "/m3d4rd.github.io/index.html",
+    "static/css/main.86c73c10.chunk.css.map": "/m3d4rd.github.io/static/css/main.86c73c10.chunk.css.map",
+    "static/js/2.2969660a.chunk.js.LICENSE.txt": "/m3d4rd.github.io/static/js/2.2969660a.chunk.js.LICENSE.txt",
+    "static/media/bar.34359220.png": "/m3d4rd.github.io/static/media/bar.34359220.png",
+    "static/media/card-right.c83e252e.png": "/m3d4rd.github.io/static/media/card-right.c83e252e.png",
+    "static/media/cover.d1fe1257.png": "/m3d4rd.github.io/static/media/cover.d1fe1257.png",
+    "static/media/gid-logo.6a1f6b90.png": "/m3d4rd.github.io/static/media/gid-logo.6a1f6b90.png",
+    "static/media/half-percent.3a649af9.png": "/m3d4rd.github.io/static/media/half-percent.3a649af9.png",
+    "static/media/people.d61b2c08.png": "/m3d4rd.github.io/static/media/people.d61b2c08.png",
+    "static/media/shape.5d70ad6c.png": "/m3d4rd.github.io/static/media/shape.5d70ad6c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.89d39ed0.js",
+    "static/js/runtime-main.ecfc7459.js",
     "static/js/2.2969660a.chunk.js",
-    "static/css/main.30f74102.chunk.css",
-    "static/js/main.b0dece6e.chunk.js"
+    "static/css/main.86c73c10.chunk.css",
+    "static/js/main.437c4043.chunk.js"
   ]
 }
